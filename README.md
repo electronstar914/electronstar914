@@ -1,49 +1,70 @@
-# Welcome to My Account
+<div align="center">
+  <table>
+    <tr>
+      <!-- Profile Picture -->
+      <td align="center" width="200">
+        <img src="https://media.licdn.com/dms/image/v2/D5603AQHOC9KoeJ3xjQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723916263356?e=1729123200&v=beta&t=phLopDSiw7QN6VYBpV735qyZ8Z9P0_S1MeNOdMfRqD8" alt="ElectronStar" width="200"/>
+      </td>
+      <td>
+        <!-- Title -->
+        <h1 style="color:blue;">Hello！ I'm ElectronStar! 👋</h1>
+        <!-- Subtitle with emojis -->
+        <h3> Deep Learning | CyberSecurity</h3>
+        <!-- Introduction -->
+        <p style="color:blue;">
+          Passionate Cybersecurity learner and Deep learning enthusiast <br>
+          Developing some intelligent tools to create a secure Cyberspace <br>
+          Strengthening the links of cybersecurity with Neural Networks <br>
+          I'm not a robot!
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## Hi there! 👋
+<!-- GitHub Stats -->
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejax-v2&show_icons=true&theme=tokyonight" alt="Tejas's GitHub stats" />
+</p>-->
 
-Welcome to my GitHub account! I'm thrilled to have you here. I am passionate about coding, creating meaningful projects, and contributing to the open-source community. Feel free to explore my repositories, and don't forget to leave a star if you find something interesting!
+<!-- GitHub Streak -->
+<!--<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejax-v2&theme=tokyonight" alt="Tejas's GitHub streak" />
+</p>-->
 
-- 👋 I’m @electronstar914
-- 👀 I’m interested in CyberIntelligence
-- 🌱 I’m currently learning Tensorflow and OpenCV
-- 💞️ I’m looking to collaborate on AI driven CyberSecurity Projects
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=electronstar914&show_icons=true&theme=transparent&hide_border=true" alt="ElectronStar's GitHub stats" />
+      </td>
+      <td>
+        <!-- GitHub Streak -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=electronstar914&theme=transparent&hide_border=true" alt="ElectronStar's GitHub streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-## About Me
 
-I am a highly motivated cybersec enthusiast with a strong background in python, full-stack dev, ruby, linux. My journey into the world of programming started several years ago, and I've been constantly honing my skills ever since. I love tackling complex problems and turning ideas into reality through code.
+<!-- Profile Views -->
+<!--<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tejax-v2&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>-->
 
-## 🔭 What I'm Working On
+<!-- Language and Tools -->
+### ⚙️ My Tech Stack
 
-Currently, I am working on CyberIntelligence Tools. These projects aim to use AI to protect your data. Stay tuned for updates!
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,selenium,sklearn,sqlite,raspberrypi,pytorch,postman,postgres,php,nginx,mysql,linux,github,flask,figma,django,docker,c,cpp,blender,bash,arduino&perline=8" />
+  </a>
+</p>
 
-## 🌱 What I'm Learning
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/electronstar914/count.svg" />
+</p>
 
-I believe in continuous learning, and I am always eager to explore new technologies and frameworks. Currently, I'm focusing on improving my expertise in Artificial Intelligence.
-
-## ⚡ Technologies and Tools
-
-- Programming Languages: Python, Ruby, C/C++, Java
-- Web Development: HTML/CSS/JS, Bootstrap, ReactJS, Django, NodeJS, PHP, MySQL
-- Data Science: None yet
-- Version Control: Git/Github
-- Other Tools: Android, Linux, Raspberry Pi, Embedded Systems
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=electronstar914&show_icons=true&theme=dark&hide_title=true&hide_border=true)
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=electronstar914&theme=dark&show_icons=true&hide_border=true)](https://git.io/streak-stats)
-
-## 🤝 Let's Connect
-
-I'm always excited to collaborate on interesting projects or discuss anything related to coding and technology. Feel free to reach out to me through Github. Let's connect and make a difference in the tech world together!
-
-Happy coding! 🚀
-
-<!---
-electronstar914/electronstar914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</p>
